@@ -1,0 +1,20 @@
+/* styles.css */
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+/* Heading styles */
+h1 {
+    color: #007bff;
+}
+
+/* Paragraph styles */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
